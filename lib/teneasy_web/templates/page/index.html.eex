@@ -1,3 +1,54 @@
-<div class="tc">
-  <h2>Teneasy</h2>
-</div>
+<header class="w-100 pa3 ph6-ns bg-light-blue">
+  <div class="dt center w-100">
+    <div class="dtc w-50 tl v-mid">
+      <a href="#" class="f4 f3-ns fw4 link white tracked" title="Home">Ten<span class="fw6">easy</span></a>
+    </div>
+    <div class="dtc w-50 tr v-mid">
+      <a href="#" class="f6 link dim br2 ph3 pv2 mh2 mb2 dib white bg-dark-pink tracked" title="sign in">SIGN IN</a>
+      <a href="#" class="dn f6 link dim br2 ph3 pv2 mh2 mb2 dib-ns white bg-dark-pink tracked" title="register">REGISTER</a>
+    </div>
+  </div>
+</header>
+
+<main class="bt b--black-10 bg">
+  <div class="mw8 ph3 center tc tl-ns">
+    <h1 class="f1-l f2-m f2 fw5 pb2-ns pb0 pt4-l pt1 mt4-m mt5-l mt3 mb0 navy tc">Manage Property Viewings</h1>
+    <h2 class="silver tc">The Teneasy platform is an easy way to book quickly viewings</h2>
+
+    <div class="center tc w4">
+      <img src="/images/mansion.svg" alt="house" class="f1">
+    </div>
+
+    <a href="#" class="mv3 dib dn-ns f6 link dim br2 ph3 pv2 mh2 mb2 white bg-dark-pink tracked" title="register">REGISTER</a>
+
+    <div class="ml7-ns mv4 f4 f3-ns">
+
+      <div class="pt3">
+        <span class="">
+          <i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+          See viewing times available
+        </span>
+      </div>
+
+
+      <div class="pt3">
+        <span class="">
+          <i class="fa fa-clock-o" aria-hidden="true"></i>
+          Directly Request or book a viewing
+        </span>
+      </div>
+
+      <div class="pt3">
+        <span class="">
+          <i class="fa fa-home" aria-hidden="true"></i>
+          View the property
+        </span>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="pv4 w-100 tc bg-near-white">
+    <span class="f7 tc gray">Teneasy, London</span>
+  </footer>
+</main>
